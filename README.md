@@ -20,7 +20,7 @@ Pequeña herramienta de línea de comandos para sacar inventario de [NetBox](htt
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/netbox-exporter.git
+git clone https://github.com/morilloinaki/netbox-exporter.git
 cd netbox-exporter
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
